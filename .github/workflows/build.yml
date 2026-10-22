@@ -1,7 +1,7 @@
 name: Build VoidLink IPA
 
 on:
-  workflworkflow_dispatch: 
+  workflow_dispatch: 
 
 jobs:
   build:
